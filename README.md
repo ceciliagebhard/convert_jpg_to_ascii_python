@@ -13,6 +13,10 @@ and put a sharp (#) before that line to comment it.
 
 If you want to contribute to this repository you can pull a request.
 
-A txt example of the image convertion is save inside this repository folder. Also there is the original image that was used for this example.
+A txt example of the image convertion is saved inside this repository folder. Also there is the original image that was used for this example.
+
+- main.py
+- messitopo.jpeg
+- messitopo.txt
 
 Cecilia Gebhard.
