@@ -10,7 +10,7 @@ ascii_characters_by_surface = "`^\,:;Il!i~+_-?][}{1)(|\/tfjrxnuvczXYUJCLQ0OZmwqp
 def main():
     image = Image.open("Users/Documents/imagenes/messitopo.jpeg"). # PASTE PATH OF JPG
     # RESIZE IMAGE
-    image = image.resize((60, 60))
+    image = image.resize((100, 60), Image.Resampling.LANCZOS)
     ascii_art = convert_to_ascii_art(image)
     save_as_text(ascii_art)
 
