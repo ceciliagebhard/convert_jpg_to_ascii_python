@@ -19,4 +19,4 @@ A txt example of the image convertion is saved inside this repository folder. Al
 - messitopo.jpeg
 - messitopo.txt
 
-Cecilia Gebhard.
+
