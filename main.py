@@ -31,7 +31,7 @@ def convert_to_ascii_art(image):
 def convert_pixel_to_character(pixel):
     (r, g, b) = pixel
     pixel_brightness = r + g + b
-    max_brightness = 255 * 3
+    max_brightness = 1500 * 3
     brightness_weight = len(ascii_characters_by_surface) / max_brightness
     index = int(pixel_brightness * brightness_weight) - 1
     return ascii_characters_by_surface[index]
