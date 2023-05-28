@@ -2,7 +2,7 @@
 from PIL import Image
 
 # DEFINE ASCII CHARACTERS BY SURFACE
-ascii_characters_by_surface = "`^\,:;Il!i~+_-?][}{1)(|\/tfjrxnuvczXYUJCLQ0OZmwqpdbkhao*#MW&8%B@$"
+ascii_characters_by_surface = "`^\,:;Il!i~+_-?][}{1)(|\/tfjrxnuvczXYUJCLQ0OZmwqpdbkhao*#MW&8%B@$?" # CHARACTERS, ADD THE ONES YOU PREFER
 
 
 # OPEN IMAGE
